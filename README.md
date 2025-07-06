@@ -7,7 +7,7 @@ A decentralized content submission and rating platform built on Worldcoin, where
 - **IPFS Content Submission**: Submit content with IPFS hashes
 - **Worldcoin Identity Verification**: Identity verification for rating submissions
 - **Decentralized Storage**: Content stored on IPFS with blockchain pointers
-- **Transparent Rating System**: 1-5 star ratings with verified identity
+- **Sybil-resistant Rating System**: 1-5 star ratings with verified identity
 
 ## 🛠️ Tech Stack
 
